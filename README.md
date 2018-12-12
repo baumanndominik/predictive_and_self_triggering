@@ -1,1 +1,0 @@
-# predictive_and_self_triggering
