@@ -86,4 +86,5 @@ def run_simulation_with_braking(trigger):
     mpl.show()
 
 
-run_simulation_with_braking(trigger)
+if __name__ == '__main__':
+    run_simulation_with_braking(trigger)

@@ -80,4 +80,5 @@ def run_single_experiment(trigger):
     mpl.show()
 
 
-run_single_experiment(trigger)
+if __name__ == '__main__':
+    run_single_experiment(trigger)

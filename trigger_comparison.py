@@ -212,4 +212,5 @@ def run_simulation_changing_surface():
     mpl.show()
 
 
-run_simulation_changing_surface()
+if __name__ == '__main__':
+    run_simulation_changing_surface()
