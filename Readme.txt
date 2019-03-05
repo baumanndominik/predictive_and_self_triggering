@@ -1,10 +1,10 @@
 ========================================================================================
 Source code of the simulation example for the paper "Resource-aware IoT Control: Saving
-Communication through Predictive Triggering" accepted for publication in the IEEE Internet of Things 
-Journal. The code simulates a bunch of vehicles platooning with a desired inter-
-vehicle distance and velocity. All vehicles are able to communicate their state to
-all other.,The decision, when to communicate, is taken by either the predictive
-or the self trigger.
+Communication through Predictive Triggering", published in the IEEE Internet of Things 
+Journal (https://ieeexplore.ieee.org/document/8624412). The code simulates a bunch of 
+vehicles platooning with a desired inter-vehicle distance and velocity. All vehicles are 
+able to communicate their state to all other. The decision, when to communicate, is taken 
+by either the predictive or the self trigger.
 
 The simulations were created using Python 3.6 and also tested with Python 3.4. To run 
 the simulations, it is required to have the following Python libraries installed:
@@ -25,6 +25,8 @@ that the results presented in the paper can be recreated.
 - trigger_comparison.py starts a Monte Carlo simulation comparing both triggers for
 different communication thresholds.
 The file VehiclePlatoon.py implements the classes necessary to run the simulation.
+
+The simulations can be executed from the command line.
 
 Dominik Baumann
 MPI-IS, ICS
