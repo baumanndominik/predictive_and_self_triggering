@@ -34,9 +34,3 @@ for a single simulation in which the first vehicle in the platoon starts to brak
 python trigger_comparison.py
 ```
 to start a Monte Carlo simulation comparing predictive and self triggering for different communication thresholds.
-Source code of the simulation example for the paper "Resource-aware IoT Control: Saving
-Communication through Predictive Triggering", published in the IEEE Internet of Things 
-Journal (https://ieeexplore.ieee.org/document/8624412). The code simulates a bunch of 
-vehicles platooning with a desired inter-vehicle distance and velocity. All vehicles are 
-able to communicate their state to all other. The decision, when to communicate, is taken 
-by either the predictive or the self trigger.
