@@ -6,8 +6,6 @@ Run a single experiment with either the predictive or the self trigger (to be de
 @author: Dominik Baumann
 MPI-IS, ICS
 dbaumann(at)tuebingen.mpg.de
-
-Copyright 2017 Max Planck Society. All rights reserved.
 '''
 
 from VehiclePlatoon import *

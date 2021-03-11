@@ -4,8 +4,6 @@ Created on Dec 19, 2017
 @author: Dominik Baumann
 MPI-IS, ICS
 dbaumann(at)tuebingen.mpg.de
-
-Copyright 2017 Max Planck Society. All rights reserved.
 '''
 
 import numpy as np

@@ -6,8 +6,6 @@ Run a simulation with the trigger defined in Defs.py. After 10s the first vehicl
 @author: Dominik Baumann
 MPI-IS, ICS
 dbaumann(at)tuebingen.mpg.de
-
-Copyright 2017 Max Planck Society. All rights reserved.
 '''
 
 from VehiclePlatoon import *

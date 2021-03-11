@@ -6,8 +6,6 @@ Comparing predictive and self trigger in Monte Carlo simulations of vehicle plat
 @author: Dominik Baumann
 MPI-IS, ICS
 dbaumann(at)tuebingen.mpg.de
-
-Copyright 2017 Max Planck Society. All rights reserved.
 '''
 
 from VehiclePlatoon import *
